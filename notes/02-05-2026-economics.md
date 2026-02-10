@@ -90,24 +90,15 @@ If something is wanted but hard to get, the price will rise until more products 
 ## Equilibrium Point
 The point at which supply and demand meet determines price
 
+Market Price (Equilibrium Point) determined by supply and demand, this is the negotiated price
+
 ### Four Degrees of Competition
-1) Perfect Competition
-2) Monopolistic Competition
-3) Oligopoly
-4) Monopoly
+1) Perfect Competition (Farmer's Market)
+2) Monopolistic Competition (Sneakers)
+3) Oligopoly (Airlines)
+4) Monopoly (PGE)
 
 ### Free Market Benefits and Limitation
 - Allows for open competition among companies
 - Provides opportunities for poor people to work their way out of poverty
 - People may let greed drive them
-
-## Taxes
-
-
-## Socialism
-
-
-## Communism
-
-
-## 
