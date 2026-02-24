@@ -70,3 +70,22 @@ limits the number of products in certain categories a nation can import
 ## Embargo
 
 A complete ban on the import or export of a certain product or the stopping of all trade with a particular country
+
+## World Trade Organization
+
+### GATT - General Agreement on Tariffs and Trae
+
+Global forum for reducing trade restrictions on goods, services, and cultural problems
+
+### WTO
+
+Geneva - 159 nations, oversees global trade
+
+## Common Markets
+
+regional group of countries with common external tariff, no internal tariffs, coordinated trade laws
+
+- EU
+- Mercosur
+- ASEAN
+- COMESA
